@@ -12,7 +12,7 @@
    **04: How Old are they?**  
 🔗 [Google Colab](https://colab.research.google.com/drive/1NLTwYrltI5xvIDdvf1bMlPE09MxiR2Kh#scrollTo=tw-ESPYFqwB7&line=1&uniqifier=1)
 
-   **05 - Triangle Parimeter**  
+   **05 - Triangle Perimeter**  
 🔗 [Google Colab](https://colab.research.google.com/drive/1ouMaWqMaPxI9X0v9SzF_0FVP3djLnxOm#scrollTo=7U35OxPMs2kO&line=1&uniqifier=1)
 
    **06: Square Number**  
