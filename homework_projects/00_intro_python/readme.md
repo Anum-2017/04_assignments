@@ -1,4 +1,4 @@
-# 📜 00 - Intro Python
+#  00 - Intro Python
 
    **01 - Add 2 Numbers**  
 🔗 [Google Colab](https://colab.research.google.com/drive/17UUsuhpnGbRBrlo4EZKgBAukobiMGTj2#scrollTo=CtwbqfC_U86l&line=1&uniqifier=1)  
