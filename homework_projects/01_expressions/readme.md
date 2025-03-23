@@ -29,8 +29,6 @@ This project calculates the hypotenuse of a right triangle using the Pythagorean
 ---
 
 ## 🔢 05 - Quadratic Equation Solver
-🔗 Google Colab
-
 Solve quadratic equations in the form ax² + bx + c = 0 using the quadratic formula:
 `x = (-b ± √(b² - 4ac)) / 2a`
 
