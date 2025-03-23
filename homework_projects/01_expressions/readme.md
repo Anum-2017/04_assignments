@@ -8,3 +8,9 @@
 
    **03 - Feet to Inches Converter 📏👣**  
 🔗 [Google Colab](https://colab.research.google.com/drive/19U8gIrxvbSgVy746uTgmybbnp_UdycgA#scrollTo=8frT9wBGrUS6&line=1&uniqifier=1)  
+
+   **04 - Pythagorean theorem**
+🔗 [Google Colab](https://colab.research.google.com/drive/1q_1raFoGFtwi__QqxLJO7jd0ED2cf07w#scrollTo=XgCh6ASU0vNK&line=13&uniqifier=1) 
+
+
+  
