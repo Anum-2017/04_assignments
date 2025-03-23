@@ -34,6 +34,11 @@ Solve quadratic equations in the form ax² + bx + c = 0 using the quadratic form
 
 🔗 [Google Colab](https://colab.research.google.com/drive/1eOeUEyi4ffcpcnVAoA67WugwVDpYq6tt#scrollTo=3hn-0xllNg8Y&line=13&uniqifier=1)
 
+---
 
+## 🎲 06 - Dice Rolling Simulator 2.0
+An enhanced version of the dice rolling simulator with additional features.
+
+🔗 [Google Colab](https://colab.research.google.com/drive/1vyTf-MGEfCg9j7-Lda85SoLSXW7VWk74#scrollTo=SPnm0ZMIpkVc&line=22&uniqifier=1)
 
   
