@@ -41,4 +41,9 @@ An enhanced version of the dice rolling simulator with additional features.
 
 🔗 [Google Colab](https://colab.research.google.com/drive/1vyTf-MGEfCg9j7-Lda85SoLSXW7VWk74#scrollTo=SPnm0ZMIpkVc&line=22&uniqifier=1)
 
-  
+---
+
+## ⏳ 07 - Seconds in a Year Calculator
+A Python program to calculate how many seconds are in a year.
+
+🔗 [Google Colab](https://colab.research.google.com/drive/1wYjlWF22Ieztdr8G5eEV_My5OWqCarMY#scrollTo=-UdD2WUus9fZ&line=5&uniqifier=1)
