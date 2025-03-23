@@ -28,9 +28,6 @@ This project calculates the hypotenuse of a right triangle using the Pythagorean
 
 ---
 
-### 💡 About
-This repository contains beginner-friendly Python projects focused on mathematical expressions and fundamental programming concepts.
-
 
 
 
