@@ -28,6 +28,8 @@
 6. **Countdown Timer ⏰**  
    🔗 [Google Colab](https://colab.research.google.com/drive/1gAFmylq0p8zPXs8B5eoSzAMil0fTZAXz#scrollTo=NAAMALgCRUZx)
 
+---
+
 7. **Password Generator 🔑**  
    🔗 [Google Colab](https://colab.research.google.com/drive/1DDfunwMj03dWFQixii5isbdMQ-DkC4by#scrollTo=osRU8s8zVGpS&line=3&uniqifier=1)
 
