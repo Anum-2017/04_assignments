@@ -38,5 +38,7 @@
 8. **BMI Calculator Web App 🏋️‍♂️📊**  
    🔗 [Google Colab](https://colab.research.google.com/drive/1f9VN0o4r9LaNeeAXXWvWRVj-L3DlY-QU#scrollTo=Lef8ztousYNY&line=4&uniqifier=1)
 
+---
+
 9. **Build a Python Website in 15 Minutes 🖥️⚡**  
    🔗 [Google Colab](https://colab.research.google.com/drive/1-b__mE00ZQCnnJjZ2gl8lAd0EGBcjzzW#scrollTo=bgvi48E4tRhn&line=4&uniqifier=1)
