@@ -16,7 +16,7 @@
 🔗 [Google Colab](https://colab.research.google.com/drive/1M1ECH87NkvFUr14RdCs12ExMletZLSL6#scrollTo=9xkwhrlp10Pl&line=2&uniqifier=1)
 
 6. **Project 6: Countdown Timer Python Project**  
-🔗 [Google Colab](https://colab.research.google.com/drive/1gAFmylq0p8zPXs8B5eoSzAMil0fTZAXz#scrollTo=bUB6v-72O5It&line=3&uniqifier=1)
+🔗 [Google Colab](https://colab.research.google.com/drive/1gAFmylq0p8zPXs8B5eoSzAMil0fTZAXz#scrollTo=NAAMALgCRUZx)
 
 7. **Project 7: Password Generator Python Project**  
 🔗 [Google Colab](https://colab.research.google.com/drive/1DDfunwMj03dWFQixii5isbdMQ-DkC4by#scrollTo=osRU8s8zVGpS&line=3&uniqifier=1)  
