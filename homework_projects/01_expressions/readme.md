@@ -1,4 +1,4 @@
-# 01 - Expressions Assignments
+# 02 - Expressions Assignments
 
 ## 01 - Dice Rolling Simulator: Understanding Variable Scope 🎲
 A simple program to simulate rolling a dice and demonstrate the concept of variable scope in Python.
