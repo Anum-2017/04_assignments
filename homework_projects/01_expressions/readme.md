@@ -50,7 +50,7 @@ A Python program to calculate how many seconds are in a year.
 
 ---
 
-## ✍️ 09 - Tiny Madlib Game
+## ✍️ 08 - Tiny Madlib Game
 A fun and interactive Madlib game where players input an adjective, a noun, and a verb to generate a humorous story.
 
 🔗 [Google Colab](https://colab.research.google.com/drive/10EZTzA1Y0DkYuWSGb4HE81eIvREZe2MJ#scrollTo=_UJED7jDyGJA&line=13&uniqifier=1)
