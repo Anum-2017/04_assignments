@@ -28,7 +28,7 @@ A Python program that asks the user for their height and determines if they meet
 
 ---
 
-## Print 10 Random Numbers 🎲  
+## 05 - Print 10 Random Numbers 🎲  
 A Python program that prints 10 random numbers in the range from 1 to 100. Each time the program is run, a different set of numbers is printed.  
 
 🔗 [Google Colab](https://colab.research.google.com/drive/1BqaASRLCJdSZkgfh8_IM8j9cgFo9rcMk#scrollTo=Tvk29eoNo041&line=1&uniqifier=1)
