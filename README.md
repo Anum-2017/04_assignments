@@ -36,6 +36,5 @@ More complex projects, including:
 📎 [Assignments 1 to 6](https://github.com/panaversity/learn-modern-ai-python/blob/main/PROJECTS/projects_to_be_submitted_by_students/readme.md)
 
 
+
 Happy Coding! 🚀
-
-
