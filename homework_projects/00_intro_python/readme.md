@@ -1,4 +1,4 @@
- # 01 - Intro to Python 🐍
+ # 00 - Intro to Python 🐍
 
 ## 01 - Add 2 Numbers ➕
 A simple Python program to add two numbers input by the user and display the result.
