@@ -1,8 +1,4 @@
-# 📂 00_intro_python – Python Basics 🐍
-
-This section contains beginner-friendly Python assignments designed to build a strong foundation in programming. Each exercise introduces essential concepts through simple, practical tasks. 🚀
-
-## 📌 Assignments Overview:
+ # 01 - Intro to Python 🐍
 
 ## 01 - Add 2 Numbers ➕
 A simple Python program to add two numbers input by the user and display the result.
