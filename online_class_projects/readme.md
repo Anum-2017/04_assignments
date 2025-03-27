@@ -1,1 +1,2 @@
-# Online Class Projects
+
+# 🎓 **Online Class Projects**  
