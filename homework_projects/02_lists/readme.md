@@ -1,4 +1,4 @@
-# List Assignments
+# 02 - List Assignments
 
 ## 01 - Sum of Numbers in a List ➕🔢
 A simple program that takes a list of numbers and returns the sum of those numbers in Python.
