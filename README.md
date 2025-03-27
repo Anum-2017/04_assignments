@@ -14,8 +14,6 @@ Basic Python concepts, including:
 - 🔀 **03_if_statements**: Conditional statements
 - 📖 **04_dictionaries**: Dictionary data structure
 - 🔁 **05_loops_control_flow**: Loops and control flow
-- 🛠️ **06_functions**: Creating and using functions
-- 🔄 **07_information_flow**: Data processing and flow
 
 ### 2️⃣ Assignments 1 to 6
 More complex projects, including:
