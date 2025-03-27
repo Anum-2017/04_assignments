@@ -2,7 +2,9 @@
 
 ## 📂 Python Assignments 00 to 05
 
+
 Welcome to the beginner-level Python assignments! 🚀 These exercises cover essential programming concepts to build a strong foundation in Python. Each assignment introduces a fundamental topic with hands-on practice to reinforce your learning. 🐍✨
+
 ---
 
 ## 🎯 How to Use
