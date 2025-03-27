@@ -28,5 +28,12 @@ A fun Python program where the user tries to guess a **randomly chosen number** 
 
 ---
 
+## 04 - Generate 10 Random Numbers 🎰🎯  
+A simple Python program that generates and prints **10 random numbers** between **1 and 100**. 
+
+🔗 [Google Colab](https://colab.research.google.com/drive/1OwCW4wCSWMd-LRxyMP0HzuJ6VKnXfaoB#scrollTo=c6MdoDcdpIui&line=1&uniqifier=1)  
+
+
+
 
 
