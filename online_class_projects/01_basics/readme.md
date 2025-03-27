@@ -21,4 +21,8 @@ A Python program that **counts down from 10 to 1** and then prints **"Liftoff!"*
 
 ---
 
+## 01 - Guess My Number Game 🎲🔢  
+A fun Python program where the user tries to guess a **randomly chosen number** between **0 and 99**. The program gives hints if the guess is **too high** or **too low** until the correct number is guessed.  
+
+🔗 [Google Colab](https://colab.research.google.com/drive/1BoAiAfF-kAPamfh_nZfXp8ecH0iiiaZc#scrollTo=8YARyuhpr3Di&line=1&uniqifier=1)  
 
