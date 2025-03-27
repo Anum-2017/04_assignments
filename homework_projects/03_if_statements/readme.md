@@ -1,4 +1,4 @@
-# 03 - If Statements  
+# 03 - If Statements Assignments
 
 ## 01 - Print First 20 Even Numbers 🔢  
 A simple Python program that prints the first 20 even numbers using a loop instead of multiple print statements.  
