@@ -18,7 +18,8 @@ Basic Python concepts, including:
 ### 2️⃣ Assignments 1 to 6
 More complex projects, including:
 - ✏️ **Mad Libs Python Project**
-- 🎯 **Guess the Number Game (Computer & User versions)**
+- 🎯 **Guess the Number Game (Computer)**
+- 🎯 **Guess the Number Game (User)**
 - ✊✋✌️ **Rock, Paper, Scissors**
 - 🎩 **Hangman**
 - ⏳ **Countdown Timer**
