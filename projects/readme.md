@@ -4,9 +4,8 @@ This repository contains 6 beginner-friendly Python assignments 🎓 and 9 excit
 
 ---
 
-## 📌 Assignments 1 to 6
-
 ## 📌 **Assignments 1 to 6**  
+
 ✅ **Assignment 1:** Mad Libs Python Project – Create funny stories using user input.  
 ✅ **Assignment 2:** Guess the Number Game (Computer) – The computer picks a number, and the user tries to guess it.  
 ✅ **Assignment 3:** Guess the Number Game (User) – The user picks a number, and the computer guesses it.  
