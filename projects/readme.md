@@ -1,4 +1,4 @@
-# Python Mini-Projects Collection 🐍
+# Collection Of Python Mini Projects 🐍
 
 This repository contains 6 beginner-friendly Python assignments 🎓 and 9 exciting Python projects 🔥 that cover fundamental programming concepts through interactive coding challenges.
 
