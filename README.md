@@ -1,5 +1,5 @@
 
-# 🚀 Project-4-Assignments
+# 🚀 Project 4 Assignments
 
 Welcome to **Project-4-Assignments**! This repository contains various Python assignments and projects, ranging from beginner to advanced levels. It covers multiple programming concepts with hands-on exercises and practical projects.
 
