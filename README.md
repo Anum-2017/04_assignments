@@ -6,7 +6,7 @@ Welcome to **Project-4-Assignments**! This repository contains various Python as
 ## 📌 Overview
 This repository consists of different assignments and additional projects categorized into two main sections:
 
-### 1️⃣ Homework Assignments 00 to 05
+### 1️⃣ Homework Projects (Assignments 00 to 05)
 Basic Python concepts, including:
 - 🐍 **00_intro_python**: Introduction to Python, simple arithmetic operations
 - ✖️ **01_expressions**: Different expressions and operations
@@ -17,7 +17,7 @@ Basic Python concepts, including:
 
 ---
 
-### 2️⃣  Online Class Projects 
+### 2️⃣  Online Class Projects (Assignment 01)
 Basic Python concepts, including:
 - 🐍 **00_joke_bot**: Creating a simple joke bot
 - 🔄 **01_double_it**: Doubling a number entered by the user
@@ -27,7 +27,7 @@ Basic Python concepts, including:
 
 ---
 
-### 3️⃣ Assignments 1 to 6
+### 3️⃣ Projects (Assignments 1 to 6)
 More complex projects, including:
 - ✏️ **Mad Libs Python Project**
 - 🎯 **Guess the Number Game (Computer)**
