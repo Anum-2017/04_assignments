@@ -36,6 +36,8 @@ More complex projects, including:
 - 🎩 **Hangman**
 - ⏳ **Countdown Timer**
 
+---
+
 ## 📂 Assignments List
 
 ### 🏠 **Homework Projects**
