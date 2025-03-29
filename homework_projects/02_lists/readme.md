@@ -35,5 +35,5 @@ A Python program that continuously collects user inputs into a list until the us
 
 ---
 
-08 - Shorten a List ✂️📏
+## 08 - Shorten a List ✂️📏
 A Python program that removes elements from the end of a list until its length is equal to MAX_LENGTH. If the list is already shorter than MAX_LENGTH, it remains unchanged.
